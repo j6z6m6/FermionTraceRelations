@@ -4,7 +4,7 @@ Data and notebooks for fermionic trace relations.
 
 Authors: Giorgos Eleftheriou, Ziming Ji, Sameer Murthy
 
-arXiv: 2605.xxxxx
+arXiv: 2605.08085
 
 ## Overview
 
